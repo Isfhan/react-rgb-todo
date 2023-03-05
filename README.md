@@ -2,7 +2,7 @@
 
 1.  Create a new React project using 
 ```bash 
-npx create-react-app
+npx create-react-app react-rgb-todo
 ``` 
 or your preferred method.
 
