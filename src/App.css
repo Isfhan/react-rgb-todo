@@ -1,0 +1,22 @@
+.App{
+  width: 50%;
+  margin:  auto; text-align:center;
+}
+
+input,button {
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-size: 25px;
+  color: white;
+  margin: 10px;
+}
+
+li > button {
+  margin: 10px 5px 10px 10px;
+}
